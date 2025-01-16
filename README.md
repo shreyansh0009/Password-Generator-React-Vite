@@ -27,7 +27,7 @@ Ensure you have Node.js installed on your system.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/Password-Generator-React-Vite.git
+git clone https://github.com/shreyansh0009/Password-Generator-React-Vite.git
 ```
 
 2. Install dependencies:
@@ -63,7 +63,7 @@ npm test
 
 ## Contact Information
 
-For any questions or feedback, please contact at saurabhsharraf@gmail.com.
+For any questions or feedback, please contact at saurabhsharraf@gmail.com
 
 ## Acknowledgments
 
